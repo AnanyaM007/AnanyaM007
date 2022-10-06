@@ -1,5 +1,5 @@
 ### Hi there! I'm Ananya 👋
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnanyaM007.AnanyaM007">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnanyaM007.AnanyaM007"><br>
 
 
 - 🔭 I’m currently working on Full Stack Development.

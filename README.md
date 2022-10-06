@@ -40,10 +40,11 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="" width="40" height="40"/> </a>
-
+<br>
 <p align="center">
   <img height="200px" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaM007&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
-</p><hr>
+</p>
+<br><hr><br>
 <p><img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=AnanyaM007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="ananya" /></p>
 
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaM007&show_icons=true&theme=tokyonight"/></p>

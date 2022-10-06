@@ -15,13 +15,12 @@
 - ⚡ Fun fact: I spent all day reading novels or working on tech-stuff.
 
 <hr>
-### Connect with me:
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ananya" /></a>
-<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="ananya"/></a>
-<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ananya" /></a>
-<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="ananya"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ananya" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="ananya"/></a>&nbsp;
+<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ananya" /></a>&nbsp;
+<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="ananya"/></a>&nbsp;
 <a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="ananya" /></a>
 </p>
 <br>

@@ -16,10 +16,17 @@
 
 <hr>
 ### Connect with me:
-<a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:ananyamohapatra215@gmail.com)</a>  
-<a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/ananya-mohapatra-48453022a/)</a> 
-<a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/AnanyaM007)</a>
-<a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/ananyam._/)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ananya" height="30" width="40" /></a>
+<a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/000000/twitter.png" alt="ananya" height="30" width="40" /></a>
+</p>
+<br>
+<hr>
+
 
 <!-- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:ananyamohapatra215@gmail.com)</a>  
 <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>]((https://www.linkedin.com/in/ananya-mohapatra-48453022a/))</a> 

@@ -1,4 +1,4 @@
-### Hi there! I'm Ananya 👋
+### <h1>Hi there! I'm Ananya 👋</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=AnanyaM007&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 - 🔭 I’m currently working on Full Stack Development.

@@ -18,20 +18,13 @@
 ### Connect with me:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ananya" height="30" width="40" /></a>
-<a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/twitter.png" alt="ananya" height="30" width="40" /></a>
+<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/gmail-new.png" alt="ananya" /></a>
+<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/60/8E05C2/linkedin-2--v1.png" alt="ananya"/></a>
+<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/instagram-new.png" alt="ananya" /></a>
+<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/8E05C2/codechef.png" alt="ananya"/></a>
+<a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/twitter.png" alt="ananya" /></a>
 </p>
 <br>
-<hr>
-
-
-<!-- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:ananyamohapatra215@gmail.com)</a>  
-<a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>]((https://www.linkedin.com/in/ananya-mohapatra-48453022a/))</a> 
-<a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/AnanyaM007)</a>
-<a>[<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/> ](https://www.instagram.com/ananyam._/)</a> -->
 <hr>
 <h3 align="left">Tech Stack</h3>
 <p align="left">  </a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 

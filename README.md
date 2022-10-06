@@ -1,6 +1,5 @@
 ### Hi there! I'm Ananya 👋
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnanyaM007.AnanyaM007"><br>
-
+<img align="right" src="https://komarev.com/ghpvc/?username=AnanyaM007&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 - 🔭 I’m currently working on Full Stack Development.
 

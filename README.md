@@ -43,8 +43,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="" width="40" height="40"/> </a>
 <br><br>
 <p align="center">
-       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princereyAnanyaM007&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-   
+       <img height="200px" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaM007&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=react>
 </p>
 <br><hr>
   

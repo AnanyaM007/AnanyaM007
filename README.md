@@ -47,7 +47,7 @@
 </p>
 <br><hr>
   
-<p><img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=AnanyaM007&&show_icons=true&title_color=59981A&icon_color=3D550C&text_color=ECF87F&bg_color=81B622" alt="ananya" /></p>
+<p><img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=AnanyaM007&&show_icons=true&title_color=0C7B93&icon_color=27496D&text_color=00A8CC&bg_color=142850" alt="ananya" /></p>
   
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaM007&show_icons=true&theme=react"/></p>
   

@@ -51,5 +51,5 @@
   
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaM007&show_icons=true&theme=react"/></p>
   
-<p><img src="https://activity-graph.herokuapp.com/graph?username=AnanyaM007&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;"></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=AnanyaM007&amp;theme=great-gatsby&amp;hide_border=true&amp;area=true" style="max-width:100%;"></p>
 

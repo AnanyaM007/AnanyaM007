@@ -17,9 +17,14 @@
 <hr>
 ### Connect with me:
 <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:ananyamohapatra215@gmail.com)</a>  
+<a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/ananya-mohapatra-48453022a/)</a> 
+<a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/AnanyaM007)</a>
+<a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/ananyam._/)
+
+<!-- <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:ananyamohapatra215@gmail.com)</a>  
 <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>]((https://www.linkedin.com/in/ananya-mohapatra-48453022a/))</a> 
 <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/AnanyaM007)</a>
-<a>[<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/> ](https://www.instagram.com/ananyam._/)</a>
+<a>[<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/> ](https://www.instagram.com/ananyam._/)</a> -->
 <hr>
 <h3 align="left">Tech Stack</h3>
 <p align="left">  </a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 

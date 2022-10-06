@@ -43,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="" width="40" height="40"/> </a>
 <br><br>
 <p align="center">
-  <img height="200px" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaM007&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl>
+  <img height="200px" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaM007&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=merko>
 </p>
 <br><hr>
   

@@ -18,11 +18,11 @@
 ### Connect with me:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/gmail-new.png" alt="ananya" /></a>
-<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/60/8E05C2/linkedin-2--v1.png" alt="ananya"/></a>
-<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/instagram-new.png" alt="ananya" /></a>
-<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/8E05C2/codechef.png" alt="ananya"/></a>
-<a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/8E05C2/twitter.png" alt="ananya" /></a>
+<a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ananya" /></a>
+<a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="ananya"/></a>
+<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ananya" /></a>
+<a href="https://www.codechef.com/users/ananya_0309" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="ananya"/></a>
+<a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="ananya" /></a>
 </p>
 <br>
 <hr>

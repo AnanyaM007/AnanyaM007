@@ -1,6 +1,6 @@
 <p align="center" >
  
-  <img height=150px src="https://tenor.com/view/machiko-sun-moon-typing-what-gif-17790360" />
+  <img height=150px src="https://github.com/AnanyaM007/AnanyaM007/blob/main/machiko-sun.gif" />
   
  </p>
  <img src="https://readme-typing-svg.herokuapp.com?font=Sofia&color=66D3FA&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hey+There+&#33+I'm+Ananya;A+passionate+Web+Developer+and+Tech+Enthusiast" />

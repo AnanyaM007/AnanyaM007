@@ -1,4 +1,11 @@
-### <h1>Hi there! I'm Ananya 👋</h1>
+<p align="center" >
+ 
+  <img height=150px src="https://tenor.com/view/machiko-sun-moon-typing-what-gif-17790360" />
+  
+ </p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Ananya" />
+  </p>
+<hr>
 <img align="right" src="https://komarev.com/ghpvc/?username=AnanyaM007&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 - 🔭 I’m currently working on Full Stack Development.

@@ -55,9 +55,9 @@
 </p>
 <br><hr>
   
-<p><img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=AnanyaM007&&show_icons=true&title_color=B55400&icon_color=F39422&text_color=00A8CC&bg_color=1B262C" alt="ananya" /></p>
+<a href="https://github.com/AnanyaM007/github-readme-activity-graph"><img alt="Ananya's Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnanyaM007&theme=modern-lilac" /></a> 
   
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaM007&show_icons=true&theme=react"/></p>
   
-<p><img src="https://activity-graph.herokuapp.com/graph?username=AnanyaM007&amp;theme=github-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;"></p>
+<p>&nbsp;<img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=AnanyaM007&show_icons=true&locale=en&theme=react" alt="Ananya" /></p>
 

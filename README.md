@@ -55,7 +55,7 @@
 </p>
 <br><hr>
   
-<a href="https://github.com/AnanyaM007/github-readme-activity-graph"><img alt="Ananya's Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnanyaM007&theme=modern-lilac" /></a> 
+<a href="https://github.com/AnanyaM007/github-readme-activity-graph"><img alt="Ananya's Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnanyaM007&theme=react" /></a> 
   
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaM007&show_icons=true&theme=react"/></p>
   

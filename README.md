@@ -8,15 +8,13 @@
 <hr>
 <img align="right" src="https://komarev.com/ghpvc/?username=AnanyaM007&label=Profile%20views&color=0e75b6&style=flat"><br>
 
-- 🔭 I’m currently working on Full Stack Development and UI/UX.
+- 🔭 I’m currently working on Full Stack Development.
 
 - 🌱 I’m currently learning NodeJs and DSA in C++.
 
 - 👯 I’m looking to collaborate on full stack projects.
 
-- 🤔 I’m looking for help with learning Cybersecurity.
-
-- 💬 Ask me about Web Development and UI/UX. 
+- 💬 Ask me about Web Development(MERN Stack) and UI/UX. 
 
 - 😄 Pronouns: she/her
 

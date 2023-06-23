@@ -7,6 +7,8 @@
   </p>
 <hr>
 <img align="right" src="https://komarev.com/ghpvc/?username=AnanyaM007&label=Profile%20views&color=0e75b6&style=flat"><br>
+<h3 align="center"><a href="https://ananyamohapatra.netlify.app/" target="blank">Portfolio</a> | <a href="https://www.linkedin.com/in/ananyamohapatra007/" target="blank">LinkedIn</a> | <a href="https://dribbble.com/ananyam007" target="blank">Dribbble</a> | <a href="https://www.behance.net/ananyam007" target="blank">Behance</a></h3>
+<br>
 
 - 🔭 I’m currently working on Full Stack Development.
 

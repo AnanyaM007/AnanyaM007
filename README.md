@@ -26,8 +26,7 @@
 <p align="left">
 <a href="mailto:ananyamohapatra215@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ananya" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ananya-mohapatra-48453022a/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="ananya"/></a>&nbsp;
-<a href="https://www.instagram.com/ananyam._/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ananya" /></a>&nbsp;
- <a href="https://www.behance.net/ananyam007" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/behance.png" alt="ananya" /></a>&nbsp;
+<a href="https://www.behance.net/ananyam007" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/behance.png" alt="ananya" /></a>&nbsp;
 <a href="https://dribbble.com/ananyam007" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/dribbble.png" alt="ananya"/></a>&nbsp;
 <a href="https://twitter.com/AnanyaM007" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="ananya" /></a>
 </p>

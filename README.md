@@ -10,7 +10,6 @@
 <h3 align="center">
  <a href="https://ananyamohapatra.netlify.app/" target="blank">Portfolio</a> | 
  <a href="https://www.linkedin.com/in/ananyamohapatra007/" target="blank">LinkedIn</a> | 
- <a href="https://leetcode.com/u/ananyam007/" target="blank">Leetcode</a> | 
  <a href="https://www.hackerrank.com/profile/ananyamohapatra4" target="blank">Hackerrank</a> | 
  <a href="https://www.geeksforgeeks.org/user/ananya_0309/" target="blank">GeeksForGeeks</a> | 
  <a href="https://www.behance.net/ananyam007" target="blank">Behance</a>

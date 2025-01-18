@@ -21,9 +21,7 @@
 
 - 🌱 I’m currently learning NodeJs and DSA in C++.
 
-- 👯 I’m looking to collaborate on full stack projects.
-
-- 💬 Ask me about Web Development(MERN Stack) and UI/UX. 
+- 💬 Ask me about Web Development(MERN Stack) and DSA. 
 
 - 😄 Pronouns: she/her
 
